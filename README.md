@@ -76,6 +76,12 @@ The namespace contains the following:
 
 <!-- <toc pattern="*"> -->
 
+<div class="namespace-toc">
+
+-   <span class="signature">[`swapFactory( base, dtype )`][@stdlib/blas/tools/swap-factory]</span><span class="delimiter">: </span><span class="description">return a function which interchanges two vectors.</span>
+
+</div>
+
 <!-- </toc> -->
 
 </section>
@@ -180,6 +186,12 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/blas-tools/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/blas-tools/main/LICENSE
+
+<!-- <toc-links> -->
+
+[@stdlib/blas/tools/swap-factory]: https://github.com/stdlib-js/blas-tools-swap-factory
+
+<!-- </toc-links> -->
 
 </section>
 
